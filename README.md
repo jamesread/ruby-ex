@@ -10,6 +10,12 @@
 
 <!-- tocstop -->
 
+<html>
+<p style = "font-size: 1em; color: red">
+Salutations, earthlings
+</p>
+</html>
+
 Ruby Sample App on OpenShift
 ============================
 
