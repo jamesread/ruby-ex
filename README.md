@@ -10,14 +10,8 @@
 
 <!-- tocstop -->
 
-<html>
-<p style = "font-size: 1em; color: red">
-Salutations, earthlings
-</p>
-</html>
-
-Ruby Sample App on OpenShift
-============================
+Hello Customer!
+===============
 
 This is a basic ruby application for OpenShift v3 that you can use as a starting point to develop your own application and deploy it on an [OpenShift](https://github.com/openshift/origin) cluster.
 
